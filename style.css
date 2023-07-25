@@ -1,0 +1,19 @@
+p {
+  margin: 30px 15px;
+  padding: 20px;
+  background-color: #ffff00;
+  border: 10px solid #0000ff;
+}
+
+h1 {
+  border: 20px solid;
+  border-color: #696969 #ffa07a #c0c0c0 #b22222;
+}
+
+span {
+  color: #008000;
+  background-color: #00fa9a;
+  display: block;
+  width: 200px;
+  height: 200px;
+}
